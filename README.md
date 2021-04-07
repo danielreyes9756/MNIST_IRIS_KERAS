@@ -1,2 +1,2 @@
-# MNIST_Reyes
-This was my first AI Project, for an subject called FSI (2020 ULPGC)
+# MNIST & IRIS from KERAS
+This was my first AI Project's, from a subject called FSI (2020 ULPGC)
